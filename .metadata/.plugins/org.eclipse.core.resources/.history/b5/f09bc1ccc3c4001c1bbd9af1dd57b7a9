@@ -1,0 +1,17 @@
+package Bank;
+
+public class ManageAccount {
+	public static final int MAX_NUMBERS_ACCOUNT = 1000;
+	private Account arrAccount[] = new Account[MAX_NUMBERS_ACCOUNT];
+	public int qtyAccount = 0;
+	
+	public int plusMoney(Account account, int money) {
+		account.setMoney(account.getMoney() + money);
+		return account.getMoney();
+	}
+	public int minusMoney(Account account, int money) {
+		account.setMoney(account.getMoney() - money);
+		return account.getMoney();;
+	}
+	
+}

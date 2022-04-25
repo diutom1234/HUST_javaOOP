@@ -3,4 +3,6 @@
     <fullyQualifiedTypeName name="AimsProject.DigitalVideoDisc"/>
     <fullyQualifiedTypeName name="java.lang.OutOfMemoryError"/>
     <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="Bank.ManageAccount"/>
+    <fullyQualifiedTypeName name="Bank.Account"/>
 </qualifiedTypeNameHistroy>

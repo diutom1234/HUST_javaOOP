@@ -1,0 +1,7 @@
+package Bank;
+
+public class ManageAccount {
+	public static final int MAX_NUMBERS_ACCOUNT = 1000;
+	private Account arrAccount[] = new Account[MAX_NUMBERS_ACCOUNT];
+	
+}

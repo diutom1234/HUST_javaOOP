@@ -1,0 +1,10 @@
+package Bank;
+
+public class Acount {
+	private String name;
+	private String category;
+	private String director;
+	private int length;
+	private float cost;
+	
+}

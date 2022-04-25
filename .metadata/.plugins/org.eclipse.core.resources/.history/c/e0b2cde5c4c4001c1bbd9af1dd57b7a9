@@ -1,0 +1,31 @@
+package Bank;
+
+public class ManageAccount {
+	public static final int MAX_NUMBERS_ACCOUNT = 1000;
+	private Account arrAccount[] = new Account[MAX_NUMBERS_ACCOUNT];
+	public int qtyAccount = 0;
+	
+	
+	public static void addAccount(Account account) {
+		if(qtyAccount == MAX_NUMBERS_ORDERED) {
+			System.out.println("False!");
+		}else {
+			itemsOrdered[qtyAccount] = account ;
+			System.out.println("Add oke!");
+			qtyAccount++;
+		}
+	}
+	public int plusMoney(Account account, int money) {
+		account.setMoney(account.getMoney() + money);
+		return account.getMoney();
+	}
+	public int minusMoney(Account account, int money) {
+		if(account.getMoney() < money) {
+			return 0;
+		}else {
+			account.setMoney(account.getMoney() - money);
+			return 1;
+		}	
+	}
+	
+}
