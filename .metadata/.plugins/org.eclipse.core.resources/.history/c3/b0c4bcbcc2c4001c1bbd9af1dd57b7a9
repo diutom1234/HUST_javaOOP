@@ -1,6 +1,0 @@
-package Bank;
-
-public class ManageAccount {
-	private Account arrAccount[] = new Account[1000];
-	
-}

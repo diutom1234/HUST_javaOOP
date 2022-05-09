@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="AimsProject.DigitalVideoDisc"/>
     <fullyQualifiedTypeName name="java.lang.OutOfMemoryError"/>
     <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="Bank.ManageAccount"/>
     <fullyQualifiedTypeName name="Bank.Account"/>
+    <fullyQualifiedTypeName name="AimsProject.DigitalVideoDisc"/>
+    <fullyQualifiedTypeName name="AimsProject.Order"/>
+    <fullyQualifiedTypeName name="AimsProject.MyDate"/>
 </qualifiedTypeNameHistroy>
