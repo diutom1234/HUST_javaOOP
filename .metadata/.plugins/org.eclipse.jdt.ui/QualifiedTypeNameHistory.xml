@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.OutOfMemoryError"/>
-    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="Bank.ManageAccount"/>
     <fullyQualifiedTypeName name="Bank.Account"/>
-    <fullyQualifiedTypeName name="AimsProject.DigitalVideoDisc"/>
     <fullyQualifiedTypeName name="AimsProject.Order"/>
     <fullyQualifiedTypeName name="AimsProject.MyDate"/>
+    <fullyQualifiedTypeName name="AimsProject.DigitalVideoDisc"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="hust.soict.hedspi.aims.disc.DigitalVideoDisc"/>
+    <fullyQualifiedTypeName name="hust.soict.hedspi.aims.utils.MyDate"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="hust.soict.hedspi.aims.media.Media"/>
+    <fullyQualifiedTypeName name="javax.management.loading.PrivateClassLoader"/>
+    <fullyQualifiedTypeName name="hust.soict.hedspi.aims.media.Disc"/>
+    <fullyQualifiedTypeName name="hust.soict.hedspi.aims.media.Book"/>
+    <fullyQualifiedTypeName name="hust.soict.hedspi.aims.order.Order"/>
+    <fullyQualifiedTypeName name="hust.soict.hedspi.aims.media.CompactDisc"/>
+    <fullyQualifiedTypeName name="hust.soict.hedspi.aims.media.Track"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="javax.swing.text.html.HTMLDocument.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="hust.soict.hedspi.aims.media.DigitalVideoDisc"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
